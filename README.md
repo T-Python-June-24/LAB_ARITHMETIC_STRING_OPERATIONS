@@ -31,12 +31,12 @@ Total: $9.64
 
 ## Bonus, create a new python file and do the following:
 
-- Define a string variable containing a sentence with at least 10 words.
-- Define a string variable containing a word that appears in the sentence.
-- Print the length of the sentence.
-- Print the index of the first occurrence of the word in the sentence.
-- Print the number of times the word appears in the sentence.
-- Print the sentence in all uppercase letters.
-- Print the sentence in all lowercase letters.
-- Replace the word in the sentence with a new word of your choice.
-- Print the last character of the sentence.
+- [x] Define a string variable containing a sentence with at least 10 words.
+- [x] Define a string variable containing a word that appears in the sentence.
+- [x] Print the length of the sentence.
+- [x] Print the index of the first occurrence of the word in the sentence.
+- [x] Print the number of times the word appears in the sentence.
+- [x] Print the sentence in all uppercase letters.
+- [x] Print the sentence in all lowercase letters.
+- [x] Replace the word in the sentence with a new word of your choice.
+- [x] Print the last character of the sentence.
