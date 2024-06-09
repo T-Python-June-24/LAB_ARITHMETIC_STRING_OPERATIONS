@@ -40,3 +40,9 @@ Total: $9.64
 - Print the sentence in all lowercase letters.
 - Replace the word in the sentence with a new word of your choice.
 - Print the last character of the sentence.
+
+
+
+
+
+- Print the last character of the sentence.
